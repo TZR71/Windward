@@ -14,4 +14,11 @@ body {
 
 .main-section {
   background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  max-width: 600px;
+  max-height: 800px;
+  border-radius: 10px;
+  border: 1px solid rgb(112, 128, 152);
+  box-shadow: 10px 8px 8px rgba(112, 128, 152, 0.8);
+  margin: 30px auto;
+  padding: 20px;
 }
