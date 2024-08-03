@@ -4,26 +4,46 @@ body {
   background-repeat: no-repeat;
   background-size: auto;
 }
-
+a {
+  color: rgb(85, 142, 242);
+}
 .main-section {
   background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
   max-width: 600px;
-  max-height: 800px;
   border-radius: 10px;
   border: 1px solid rgb(112, 128, 152);
   box-shadow: 10px 8px 8px rgba(112, 128, 152, 0.8);
   margin: 40px auto;
   padding: 20px;
 }
+
+header {
+  border-bottom: 0.05px solid rgb(202, 206, 212);
+  padding: 0 0 30px 0;
+}
 .searc-form-input {
-  background-color: #cbe6f3;
+  background-color: #dff1f9;
+  border: none;
   border-radius: 4px;
   font-size: 16px;
+  width: 80%;
+  padding: 15px 20px;
 }
 
 .search-form-search {
-  background-color: #cbe6f3;
-  color: white;
+  background-color: #dff1f9;
+  color: rgb(85, 142, 242);
+  border: none;
   border-radius: 4px;
+  padding: 15px 26px;
   font-size: 16px;
+  margin-left: 8px;
+}
+
+footer {
+  border-top: 0.05px solid rgb(202, 206, 212);
+  padding: 30px 0 0 0;
+  text-align: center;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
 }
