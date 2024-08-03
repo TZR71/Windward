@@ -15,3 +15,15 @@ body {
   margin: 40px auto;
   padding: 20px;
 }
+.searc-form-input {
+  background-color: #cbe6f3;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.search-form-search {
+  background-color: #cbe6f3;
+  color: white;
+  border-radius: 4px;
+  font-size: 16px;
+}
