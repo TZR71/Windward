@@ -1,16 +1,8 @@
 body {
   font-family: "Montserrat", sans-serif;
-  background: linear-gradient(
-    99.6deg,
-    rgb(112, 128, 152) 10.6%,
-    rgb(242, 227, 234) 32.9%,
-    rgb(234, 202, 213) 52.7%,
-    rgb(220, 227, 239) 72.8%,
-    rgb(185, 205, 227) 81.1%,
-    rgb(154, 180, 212) 102.4%
-  );
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/137/003/original/clouds.jpg?1722690207);
   background-repeat: no-repeat;
-  background-size: auto 700px;
+  background-size: auto;
 }
 
 .main-section {
@@ -20,6 +12,6 @@ body {
   border-radius: 10px;
   border: 1px solid rgb(112, 128, 152);
   box-shadow: 10px 8px 8px rgba(112, 128, 152, 0.8);
-  margin: 30px auto;
+  margin: 40px auto;
   padding: 20px;
 }
