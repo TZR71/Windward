@@ -40,6 +40,41 @@ header {
   margin-left: 8px;
 }
 
+.weather-app-data {
+  display: flex;
+  justify-content: space-between;
+}
+main {
+  padding: 30px 0;
+}
+
+.weather-app-city {
+  margin: 0;
+  font-size: 38px;
+  line-height: 48px;
+}
+.weather-app-details {
+  font-size: 18px;
+  line-height: 24px;
+}
+.weather-app-details strong {
+  color: rgb(89, 26, 223);
+}
+.weather-app-temperature-container {
+  display: flex;
+}
+.weather-app-icon {
+  font-size: 50px;
+  margin-top: 16px;
+}
+.weather-app-temperature {
+  font-size: 88px;
+  font-weight: bold;
+}
+.weather-app-unit {
+  font-size: 30px;
+  margin-top: 20px;
+}
 footer {
   border-top: 0.05px solid rgb(202, 206, 212);
   padding: 30px 0 0 0;
