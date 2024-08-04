@@ -16,7 +16,6 @@ a {
   margin: 40px auto;
   padding: 20px;
 }
-
 header {
   border-bottom: 0.05px solid rgb(202, 206, 212);
   padding: 0 0 20px 0;
@@ -29,7 +28,6 @@ header {
   width: 80%;
   padding: 15px 20px;
 }
-
 .search-form-search {
   background-color: #dff1f9;
   color: rgb(85, 142, 242);
@@ -39,7 +37,6 @@ header {
   font-size: 16px;
   margin-left: 8px;
 }
-
 .weather-app-data {
   display: flex;
   justify-content: space-between;
@@ -47,7 +44,6 @@ header {
 main {
   padding: 20px 0;
 }
-
 .weather-app-city {
   margin: 0;
   font-size: 38px;
@@ -74,7 +70,6 @@ main {
   font-size: 30px;
   margin-top: 20px;
 }
-
 .weather-forecast {
   display: flex;
   justify-content: space-around;
@@ -101,7 +96,6 @@ main {
 .weather-forecast-temperature {
   padding: 0 8px;
 }
-
 .wind {
   font-size: 12px;
   text-align: center;
