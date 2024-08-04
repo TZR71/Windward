@@ -84,7 +84,6 @@ main {
   text-align: center;
   font-size: 20px;
   line-height: 20px;
-  margin: 25px 0 10px 0;
 }
 .weather-forecast-icon {
   width: 100%;
@@ -97,10 +96,16 @@ main {
   color: rgb(89, 26, 223);
   display: flex;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 .weather-forecast-temperature {
   padding: 0 8px;
+}
+
+.wind {
+  font-size: 12px;
+  text-align: center;
+  margin-top: 10px;
 }
 footer {
   border-top: 0.05px solid rgb(202, 206, 212);

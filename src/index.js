@@ -95,9 +95,10 @@ function displayForecast(response) {
        </div>
          <div class="weather-forecast-temperature">${Math.round(
            day.temperature.minimum
-         )}°</div>
-        
-         </div>
+         )}°</div>        
+            
+         </div>   
+         <div  class="wind">Wind ${day.wind.speed} km/h</div>     
 </div>`;
     }
   });
