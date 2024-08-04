@@ -19,7 +19,7 @@ a {
 
 header {
   border-bottom: 0.05px solid rgb(202, 206, 212);
-  padding: 0 0 30px 0;
+  padding: 0 0 20px 0;
 }
 .searc-form-input {
   background-color: #dff1f9;
@@ -45,7 +45,7 @@ header {
   justify-content: space-between;
 }
 main {
-  padding: 30px 0;
+  padding: 20px 0;
 }
 
 .weather-app-city {
